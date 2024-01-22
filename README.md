@@ -14,7 +14,7 @@
 
 4. Find a friend to play with (this is a 2 player game)
 
-5. run 'java Client.java` to start a game of ConnectX!
+5. run `java Client.java` to start a game of ConnectX!
 
 
 
