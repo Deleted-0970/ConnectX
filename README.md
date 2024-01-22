@@ -1,6 +1,7 @@
 # Terminal ConnectX
 
-### ConnectX is the classical 2 player game of Connect 4 but with a scalabe board size and Connect number!
+### ConnectX is the classical 2 player game of Connect 4...
+### but with a scalabe board size and Connect number!
 (e.g. you can play Connect 13 on a 20x15 board!)
 
 ### How To Get Started:
